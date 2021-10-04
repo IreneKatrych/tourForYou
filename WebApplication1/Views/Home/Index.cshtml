@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Головна";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <img src="https://i.ibb.co/ggdvrbm/9296678bdb704dc15cff8eba558c5582.jpg" class="img-responsive">
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Оформити замовлення</h2>
+        <p>
+            Швидко і легко!
+        </p>
+        <p>@Html.ActionLink("Всі замовлення", "Orders")</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Підбір турів</h2>
+        <p>Переглядайте асортимент!</p>
+        <p>@Html.ActionLink("Підібрати тур", "SearchTour")</p>
+        <p>@Html.ActionLink("Всі тури", "Tours")</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Наші клієнти</h2>
+        <p>Не втрачайте зв'язок!</p>
+        <p>@Html.ActionLink("Переглянути список", "Clients")</p>
+    </div>
+</div>

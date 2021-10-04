@@ -1,0 +1,68 @@
+﻿@model  IEnumerable<WebApplication1.Models.Order>
+
+@{
+    ViewBag.Title = "SentDocOrders";
+}
+
+<h2>Замовлення </h2>
+
+
+
+<table class="table">
+    <tr class="header">
+        <td><p>№ замовлення</p></td>
+        <td><p>Назва туру</p></td>
+        <td><p>Прізвище клієнта</p></td>
+        <td><p>Ім'я клієнта</p></td>
+        <td><p>Стан замовлення</p></td>
+        <td><p>Стан оплати</p></td>
+        <td><p>Оформлення документів</p></td>
+        <td><p>Кількість людей</p></td>
+        <td><p>Вартість</p></td>
+        <td><p>Дата початку</p></td>
+        <td></td>
+    </tr>
+
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tour.TourName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Client.SecondName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Client.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Stage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaymentStage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DocumentStage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HowManyPeople)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfBegin)
+            </td>
+            <td>
+                @Html.ActionLink("Редагувати", "EditOrder", new { id = item.Id }) |
+                @Html.ActionLink("Видалити", "DeleteOrder", new { id = item.Id })
+
+            </td>
+        </tr>
+    }
+
+</table>

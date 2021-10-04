@@ -1,0 +1,61 @@
+﻿@model IEnumerable<WebApplication1.Models.Tour>
+@{
+    ViewBag.Title = "TourPrise";
+}
+
+<h2>Деталі обраного туру </h2>
+
+<table class="table">
+    <tr class="header">
+        <td><p>Назва туру</p></td>
+        <td><p>Країна</p></td>
+        <td><p>Готель</p></td>
+        <td><p>Клас готелю</p></td>
+        <td><p>Тип харчування</p></td>
+        <td><p>Вид транспорту</p></td>
+        <td><p>Ціна, $</p></td>
+        <td><p>Дата початку</p></td>
+        <td><p>Дата кінця</p></td>
+        <td><p>Лінк</p></td>
+        <td></td>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TourName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Country)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hotel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HotelStar)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MealType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TransportType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfBegin)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfFinish)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Link)
+            </td>
+            
+        </tr>
+    }
+
+</table>
+

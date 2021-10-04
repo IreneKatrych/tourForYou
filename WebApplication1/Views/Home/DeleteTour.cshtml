@@ -1,0 +1,111 @@
+﻿@model WebApplication1.Models.Tour
+
+@{
+    ViewBag.Title = "DeleteTour";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Видалити</h2>
+
+<h3>Ви впевнені що хочете видалити це?</h3>
+<div>
+    <h4>Тур </h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.LabelFor(model => model.TourName, "Назва туру")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TourName)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.Country, "Країна")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Country)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.Hotel, "Назва готелю")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Hotel)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.HotelStar, "Тип готелю")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HotelStar)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.MealType, "Тип харчування")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MealType)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.TransportType, "Вид транспорту")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TransportType)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.Duration, "Тривалість")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Duration)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.Price, "Вартість")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.DateOfBegin, "Дата початку")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateOfBegin)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.DateOfFinish, "Дата завершення")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateOfFinish)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.TOperator, "Туроператор")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TOperator)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.Link, "Лінк")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Link)
+        </dd>
+      
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Видалити" class="btn btn-default" /> |
+            @Html.ActionLink("Назад до списку", "Tours")
+        </div>
+    }
+</div>

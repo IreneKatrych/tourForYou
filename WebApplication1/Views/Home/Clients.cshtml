@@ -1,0 +1,49 @@
+﻿@model IEnumerable<WebApplication1.Models.Client>
+@{
+    ViewBag.Title = "Clients";
+}
+
+<h2>Клієнти</h2>
+
+
+<div>
+    @Html.ActionLink("Додати нового клієнта", "AddClient")
+</div>
+
+<table class="table">
+    <tr class="header">
+        <td><p>Ім'я</p></td>
+        <td><p>Прізвище</p></td>
+        <td><p>№ тел.</p></td>
+        <td><p>Місто</p></td>
+        <td><p>Дата народження</p></td>
+        <td></td>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SecondName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TelNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Town)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfBirth)
+            </td>
+            <td>
+                @Html.ActionLink("Редагувати", "EditClient", new { id = item.Id }) |
+                @Html.ActionLink("Видалити", "DeleteClient", new { id = item.Id })
+                
+            </td>
+        </tr>
+    }
+
+</table>

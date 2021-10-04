@@ -1,0 +1,118 @@
+﻿@using WebApplication1.Models
+@model IEnumerable<WebApplication1.Models.Tour>
+@{
+    ViewBag.Title = "SearchTour";
+}
+
+<h2>Тури </h2>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <br />
+            Знайти за країною:
+            @Html.DropDownList("Country", new SelectList(Enum.GetValues(typeof(Countries))),
+"", new { @class = "form-control" })
+        </div>
+        <div class="col-sm-4">
+            <br />
+            Знайти за типом готелю:
+            @Html.DropDownList("HotelType", new SelectList(Enum.GetValues(typeof(Stars))),
+"", new { @class = "form-control" })
+        </div>
+        <div class="col-sm-4">
+            <br />
+            Знайти за типом харчування:
+            @Html.DropDownList("MealType", new SelectList(Enum.GetValues(typeof(Meals))),
+"", new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            <br />
+            Знайти за типом транспорту:
+            @Html.DropDownList("TransportType", new SelectList(Enum.GetValues(typeof(TransportTypes))),
+"", new { @class = "form-control" })
+            <br />
+        </div>
+        <div class="col-sm-4">
+            <br />
+            Знайти за тривалістю:
+            <br />
+            @Html.TextBox("Duration")
+            @ViewBag.Message
+            <br />
+        </div>
+        <div class="col-sm-4">
+            <br />
+            <input type="submit" value="Пошук" />
+            <br />
+        </div>
+    </div>
+</div>
+
+                <table class="table">
+                    <tr class="header">
+
+                        <td>
+                            @Html.ActionLink("Назва туру", "SearchTour", new { sortOrder = ViewBag.NameSortParm })
+                        </td>
+                        <td><p>Країна</p></td>
+                        <td><p>Готель</p></td>
+                        <td><p>Клас готелю</p></td>
+                        <td><p>Тип харчування</p></td>
+                        <td><p>Вид транспорту</p></td>
+                        <td>
+                            @Html.ActionLink("Ціна", "SearchTour", new { sortOrder = ViewBag.PriceSortParm })
+                        </td>
+                        <td>
+                            @Html.ActionLink("Дата початку", "SearchTour", new { sortOrder = ViewBag.DateSortParm })
+                        </td>
+                        <td><p>Дата кінця</p></td>
+                        <td><p>Лінк</p></td>
+                        <td></td>
+                    </tr>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TourName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Country)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Hotel)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.HotelStar)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.MealType)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TransportType)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Price)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.DateOfBegin)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.DateOfFinish)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Link)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Редагувати", "EditTour", new { id = item.Id }) |
+                                @Html.ActionLink("Видалити", "DeleteTour", new { id = item.Id }) |
+                                @Html.ActionLink("Замовити", "AddOrder", new { id = item.Id })
+                            </td>
+                        </tr>
+                    }
+
+                </table>

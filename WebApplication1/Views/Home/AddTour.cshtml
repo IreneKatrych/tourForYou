@@ -1,0 +1,120 @@
+﻿@using WebApplication1.Models
+@model Tour
+
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    ViewBag.Title = "AddTour";
+}
+
+<h2>Додати новий тур</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.TourName, "Назва туру")
+            <br />
+            @Html.EditorFor(model => model.TourName)
+            @Html.ValidationMessageFor(model => model.TourName)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.Country, "Країна")
+            <br />
+            @Html.DropDownListFor(m => m.Country,
+                             new SelectList(Enum.GetValues(typeof(Countries))),
+                             "Виберіть країну", new { @class = "form-control" })
+            @*@Html.EditorFor(model => model.Country)*@
+            @Html.ValidationMessageFor(model => model.Country)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.TransportType, "Вид транспорту")
+            <br />
+            @*@Html.EditorFor(model => model.TransportType)*@
+            @Html.DropDownListFor(m => m.TransportType,
+                            new SelectList(Enum.GetValues(typeof(TransportTypes))),
+                            "Виберіть тип транспорту")
+            @Html.ValidationMessageFor(model => model.TransportType)
+            <br /><br />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.Hotel, "Назва готелю")
+            <br />
+            @Html.EditorFor(model => model.Hotel)
+            @Html.ValidationMessageFor(model => model.Hotel)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.HotelStar, "Тип готелю")
+            <br />
+            @*@Html.EditorFor(model => model.HotelClass)*@
+            @Html.DropDownListFor(m => m.HotelStar,
+                            new SelectList(Enum.GetValues(typeof(Stars))),
+                            "Виберіть тип")
+            @Html.ValidationMessageFor(model => model.HotelStar)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.MealType, "Тип харчування")
+            <br />
+            @*@Html.EditorFor(model => model.MealClass)*@
+            @Html.DropDownListFor(m => m.MealType,
+                             new SelectList(Enum.GetValues(typeof(Meals))),
+                             "Виберіть тип")
+            @Html.ValidationMessageFor(model => model.MealType)
+            <br /><br />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.Price, "Вартість")
+            <br />
+            @Html.EditorFor(model => model.Price)
+            @Html.ValidationMessageFor(model => model.Price)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.DateOfBegin, "Дата початку")
+            <br />
+            @Html.EditorFor(model => model.DateOfBegin)
+            @Html.ValidationMessageFor(model => model.DateOfBegin)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.DateOfFinish, "Дата завершення")
+            <br />
+            @Html.EditorFor(model => model.DateOfFinish)
+            @Html.ValidationMessageFor(model => model.DateOfFinish)
+            <br /><br />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.TOperator, "Туристичний оператор")
+            <br />
+            @Html.EditorFor(model => model.TOperator)
+            @Html.ValidationMessageFor(model => model.TOperator)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.Link, "Лінк")
+            <br />
+            @Html.EditorFor(model => model.Link)
+            @Html.ValidationMessageFor(model => model.Link)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+
+        </div>
+    </div>
+</div>
+
+
+@Html.HiddenFor(m => m.UserId)
+<br /><br />
+<input type="submit" value="Додати" />

@@ -1,0 +1,88 @@
+﻿@using WebApplication1.Models
+@model WebApplication1.Models.Order
+@{
+    ViewBag.Title = "EditOrder";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Редагувати замовлення</h2>
+
+@Html.HiddenFor(m => m.Id)
+@Html.HiddenFor(m => m.TourId)
+@Html.HiddenFor(m => m.DateOfBegin)
+@Html.HiddenFor(m => m.DateOfFinish)
+@Html.HiddenFor(m => m.Price)
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.Tour.TourName, "Назва туру")
+            <br />
+            @Html.EditorFor(model => model.Tour.TourName)
+            @Html.ValidationMessageFor(model => model.Tour.TourName)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.Client.FirstName, "Ім'я туриста")
+            <br />
+            @Html.EditorFor(model => model.Client.FirstName)
+            @Html.ValidationMessageFor(model => model.Client.FirstName)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.Client.SecondName, "Прізвище")
+            <br />
+            @Html.EditorFor(model => model.Client.SecondName)
+            @Html.ValidationMessageFor(model => model.Client.SecondName)
+            <br /><br />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.Stage, "Стан замовлення")
+            <br />
+            @Html.DropDownListFor(m => m.Stage,
+                   new SelectList(Enum.GetValues(typeof(StageOfOrder))),
+                   "Виберіть стан замовлення")
+            @Html.ValidationMessageFor(model => model.Stage)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.PaymentStage, "Стан оплати")
+            <br />
+            @Html.DropDownListFor(m => m.PaymentStage,
+                   new SelectList(Enum.GetValues(typeof(StageOfPayment))),
+                   "Виберіть стан оплати")
+            @Html.ValidationMessageFor(model => model.PaymentStage)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.DocumentStage, "Документація")
+            <br />
+            @Html.DropDownListFor(m => m.DocumentStage,
+                   new SelectList(Enum.GetValues(typeof(StageOfDocuments))),
+                   "Виберіть стан оформлення документів")
+            @Html.ValidationMessageFor(model => model.DocumentStage)
+            <br /><br />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.HowManyPeople, "Кількість людей")
+            <br />
+            @Html.EditorFor(model => model.HowManyPeople)
+            @Html.ValidationMessageFor(model => model.HowManyPeople)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            <p><input type="submit" value="Відправити" /></p>
+        </div>
+        <div class="col-sm-4">
+
+        </div>
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink("Назад до списку", "Orders")
+</div>

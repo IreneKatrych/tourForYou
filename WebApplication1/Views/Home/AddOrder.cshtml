@@ -1,0 +1,87 @@
+﻿@using WebApplication1.Models
+@model WebApplication1.Models.Order
+@{
+    /**/
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "AddOrder";
+}
+
+<h2>Додати нове замовлення</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.Label("Ім'я ")
+            <br />
+            @Html.TextBox("ClientFName")
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.Label("Прізвище")
+            <br />
+            @Html.TextBox("ClientSName")
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.Label("Кількість людей")
+            <br />
+            @Html.TextBox("HowManyPeople")
+            <br /><br />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.Stage, "Стан замовлення")
+            <br />
+            @Html.DropDownListFor(m => m.Stage,
+                            new SelectList(Enum.GetValues(typeof(StageOfOrder))),
+                            "Виберіть стан замовлення")
+            @Html.ValidationMessageFor(model => model.Stage)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.PaymentStage, "Стан оплати")
+            <br />
+            @Html.DropDownListFor(m => m.PaymentStage,
+                           new SelectList(Enum.GetValues(typeof(StageOfPayment))),
+                           "Виберіть стан оплати")
+            @Html.ValidationMessageFor(model => model.PaymentStage)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.DocumentStage, "Документи")
+            <br />
+            <br />
+            @Html.DropDownListFor(m => m.DocumentStage,
+                           new SelectList(Enum.GetValues(typeof(StageOfDocuments))),
+                           "Виберіть стан оформлення документів")
+            @Html.ValidationMessageFor(model => model.DocumentStage)
+            <br /><br />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+
+        </div>
+        <div class="col-sm-4">
+
+        </div>
+        <div class="col-sm-4">
+
+        </div>
+    </div>
+</div>
+
+            <br /><br />
+
+            @Html.Action("TourPrise")
+
+            <br /><br />
+
+
+            @Html.HiddenFor(m => m.UserId)
+            @Html.HiddenFor(m => m.TourId)
+            <br /><br />
+
+            <input type="submit" value="Додати" />
+            

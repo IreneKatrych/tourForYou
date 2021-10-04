@@ -1,0 +1,257 @@
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\WebApplication1.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\WebApplication1.pdb
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\csc.exe
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\csi.exe
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\EntityFramework.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Owin.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\WebGrease.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\EntityFramework.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\ru\EntityFramework.resources.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\obj\Debug\WebApplication1.Migrations.newMigration.resources
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\obj\Debug\WebApplication1.csproj.GenerateResource.cache
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\obj\Debug\WebApplication1.Migrations.newMigration1.resources
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\obj\Debug\WebApplication1.Migrations.newMigration2.resources
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\irene cherokee\source\repos\TourForYou\WebApplication1\obj\Debug\WebApplication1.Migrations.newStaff.resources
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\WebApplication1.dll.config
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\WebApplication1.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\WebApplication1.pdb
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\csc.exe
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\csc.exe.config
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\csc.rsp
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\csi.exe
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\csi.exe.config
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\csi.rsp
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Console.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\vbc.exe
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\vbc.exe.config
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\vbc.rsp
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Antlr3.Runtime.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\EntityFramework.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Newtonsoft.Json.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Owin.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Web.Helpers.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Web.Mvc.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Web.Optimization.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Web.Razor.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Web.WebPages.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\WebGrease.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Web.Helpers.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Web.Mvc.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Web.Optimization.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Web.Razor.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Web.WebPages.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Newtonsoft.Json.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\EntityFramework.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\ru\EntityFramework.resources.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.Migrations.newMigration.resources
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.Migrations.newMigration1.resources
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.Migrations.newMigration2.resources
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.Migrations.newStaff.resources
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.csproj.GenerateResource.cache
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.dll
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.Migrations.newone.resources
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.Migrations.newone1.resources
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.Migrations.newone2.resources
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.Migrations.newnewnew.resources
+D:\документи ірини\іфнтунг\4 курс\дипломний проект\TourForYou\WebApplication1\obj\Debug\WebApplication1.Migrations.newnewnew1.resources

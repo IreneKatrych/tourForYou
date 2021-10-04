@@ -1,0 +1,61 @@
+﻿@model WebApplication1.Models.Client
+
+@{
+    ViewBag.Title = "EditClient";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Редагувати запис</h2>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.HiddenFor(m => m.Id)
+            @Html.LabelFor(model => model.FirstName, "Імя")
+            <br />
+            @Html.EditorFor(model => model.FirstName)
+            @Html.ValidationMessageFor(model => model.FirstName)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.SecondName, "Прізвище")
+            <br />
+            @Html.EditorFor(model => model.SecondName)
+            @Html.ValidationMessageFor(model => model.SecondName)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.TelNumber, "№ тел.")
+            <br />
+            @Html.EditorFor(model => model.TelNumber)
+            @Html.ValidationMessageFor(model => model.TelNumber)
+            <br /><br />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.Town, "Місто")
+            <br />
+            @Html.EditorFor(model => model.Town)
+            @Html.ValidationMessageFor(model => model.Town)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            @Html.LabelFor(model => model.DateOfBirth, "Дата народження")
+            <br />
+            @Html.EditorFor(model => model.DateOfBirth)
+            @Html.ValidationMessageFor(model => model.DateOfBirth)
+            <br /><br />
+        </div>
+        <div class="col-sm-4">
+            <p><input type="submit" value="Відправити" /></p>
+        </div>
+    </div>
+</div>
+
+
+
+<div>
+    @Html.ActionLink("Назад до списку", "Clients")
+</div>

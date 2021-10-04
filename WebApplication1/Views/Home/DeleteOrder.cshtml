@@ -1,0 +1,98 @@
+﻿@model WebApplication1.Models.Order
+@{
+    ViewBag.Title = "DeleteOrder";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>Видалити</h2>
+
+<h3>Ви впевнені що хочете видалити це?</h3>
+<div>
+    <h4>Замовлення </h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.LabelFor(model => model.Tour.TourName, "Назва туру")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tour.TourName)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.Client.FirstName, "Ім'я")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Client.FirstName)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.Client.SecondName, "Прізвище")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Client.SecondName)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.Stage, "Стан замовлення")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stage)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.PaymentStage, "Стан оплати")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PaymentStage)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.DocumentStage, "Документація")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DocumentStage)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.HowManyPeople, "Кількість людей")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HowManyPeople)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.Price, "Вартість")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.DateOfBegin, "Дата початку")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateOfBegin)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.DateOfFinish, "Дата завершення")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateOfFinish)
+        </dd>
+       
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Видалити" class="btn btn-default" /> |
+            @Html.ActionLink("Назад до списку", "Orders")
+        </div>
+    }
+</div>
